@@ -1,6 +1,6 @@
 # Hi 👋, I'm **Ashwini Dubbewar**
 
-**MS in Computer Science** — University of Colorado Boulder  
+**MS in Computer Science** - University of Colorado Boulder  
 ---
 
 ## 🔭 Current Work
